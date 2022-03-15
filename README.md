@@ -19,8 +19,8 @@ npm install
 ```bash
 # Generate the docs
 cd docs
-chmod +x generate_doc.sh
-./generate_doc.sh
+chmod +x generate_docs.sh
+./generate_docs.sh
 
 # Serve the docs
 npm run start
