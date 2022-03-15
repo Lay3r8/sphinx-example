@@ -1,0 +1,7 @@
+esbonio==0.9.0
+docutils==0.17.1
+doc8==0.10.1
+rstcheck==3.3.1
+recommonmark==0.7.1
+sphinx-bootstrap-theme==0.8.1
+Sphinx==4.4.0
