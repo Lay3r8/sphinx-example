@@ -1,5 +1,5 @@
 # Sphinx Example
-This is a very simple example of how to autogenerate Google style docs from code using Sphinx with autodoc and napoleon extensions.
+This is a very simple example of how to autogenerate Google style docs from code using Sphinx with autodoc and napoleon extensions on a Linux machine.
 
 ## Installation
 ```bash
